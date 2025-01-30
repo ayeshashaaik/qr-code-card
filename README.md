@@ -10,6 +10,6 @@ This is a responsive QR Code component built using HTML and CSS as part of a Fro
 
 ## The challenge
 
-A simple and responsive QR Code component built using HTML and CSS. This project is part of the Frontend Mentor challenge and helps improve front-end skills by practicing layout and styling techniques.
+This is a simple and responsive QR Code component built using HTML and CSS as part of the Frontend Mentor challenge. The goal was to replicate the design as accurately as possible while maintaining clean and structured code.
 
-The challenge was to build a QR code component and match the design as closely as possible. I successfully completed it with clean and responsive HTML and CSS. This project allowed me to practice and enhance my front-end skills while ensuring pixel-perfect design implementation.
+Through this project, I practiced essential front-end skills, focusing on layout, responsiveness, and pixel-perfect design implementation. It was a great opportunity to enhance my CSS styling techniques and improve my ability to build well-structured components
