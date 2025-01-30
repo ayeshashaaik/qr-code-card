@@ -1,7 +1,12 @@
 # Frontend Mentor - QR code component
 
-![Design preview for the QR code component coding challenge](./preview.jpg)
-![Design preview for the QR code component coding challenge](./design/desktop.png)
+This is a responsive QR Code component built using HTML and CSS as part of a Frontend Mentor challenge.
+
+## 📸 Desktop View
+![Desktop View](./design/desktop.png)
+
+## 📱 Mobile View
+![Mobile View](./design/mobile.png)
 
 ## The challenge
 
